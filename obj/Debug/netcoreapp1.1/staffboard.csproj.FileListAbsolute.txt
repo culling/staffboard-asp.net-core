@@ -1,0 +1,8 @@
+C:\asp\staffboard\bin\Debug\netcoreapp1.1\staffboard.deps.json
+C:\asp\staffboard\bin\Debug\netcoreapp1.1\staffboard.runtimeconfig.json
+C:\asp\staffboard\bin\Debug\netcoreapp1.1\staffboard.runtimeconfig.dev.json
+C:\asp\staffboard\obj\Debug\netcoreapp1.1\staffboard.AssemblyInfo.cs
+C:\asp\staffboard\bin\Debug\netcoreapp1.1\staffboard.dll
+C:\asp\staffboard\bin\Debug\netcoreapp1.1\staffboard.pdb
+C:\asp\staffboard\obj\Debug\netcoreapp1.1\staffboard.dll
+C:\asp\staffboard\obj\Debug\netcoreapp1.1\staffboard.pdb
